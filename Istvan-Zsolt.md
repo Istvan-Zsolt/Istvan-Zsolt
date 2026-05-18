@@ -1,139 +1,158 @@
 # Hi, I’m Istvan 👋
 
-I am building my career in cybersecurity, with a particular interest in **SOC operations, threat investigation, incident response and network security**.
+I am building my career in cybersecurity, with a strong interest in **SOC operations, alert triage, incident response, threat investigation and network security**.
 
-At the moment, I am studying for a **BTEC HND in Digital Technologies with a Cyber Security specialism**, while also developing my practical skills through hands-on labs, structured courses and portfolio projects. My immediate goal is to move into a **Junior SOC Analyst or entry-level cybersecurity role**, where I can continue learning in a real security environment and contribute to protecting systems, users and organisations.
+I am currently studying for a **BTEC HND in Digital Technologies with a Cyber Security specialism** while developing my practical skills through hands-on labs, structured courses and portfolio projects. My immediate goal is to move into a **Junior SOC Analyst or entry-level cybersecurity role**, where I can continue learning in a real security operations environment and contribute to protecting organisations, users and systems.
 
-My current work in **airport security** has helped me build habits that transfer well into cybersecurity: staying alert, following procedures carefully, identifying unusual behaviour, documenting incidents clearly and understanding that small details can matter.
+My background in **airport security** has helped me build habits that transfer well into cybersecurity: staying alert, following procedures carefully, recognising unusual behaviour, responding calmly to incidents and documenting information accurately.
 
 
-## What I’m currently focusing on
+## Current Cybersecurity Focus
 
-* Security monitoring and incident investigation
-* Understanding alerts, suspicious activity and escalation decisions
-* Network traffic analysis using tools such as `tcpdump` and Wireshark
-* Microsoft security technologies, including Defender XDR, Defender for Endpoint and Microsoft Purview
-* Identity protection, data loss prevention and insider risk concepts
-* Building clear, evidence-based cybersecurity write-ups for my portfolio
+At the moment, I am concentrating on:
+
+- SOC alert triage and investigation workflows
+- Incident reporting, escalation and response decisions
+- Microsoft Defender XDR and threat protection concepts
+- Endpoint, identity, email and cloud-app security
+- Data protection, eDiscovery, audit and insider risk through Microsoft Purview
+- SIEM, EDR and defensive security fundamentals
+- Network traffic analysis using `tcpdump` and Wireshark
+- Building clear portfolio write-ups that show how I analyse evidence and reach conclusions
 
 
 ## Featured Portfolio Projects
 
 ### 🔍 Investigating a Website Compromise Using tcpdump Traffic Logs
 
-A network traffic investigation based on a simulated website compromise. I analysed DNS and HTTP activity in a `tcpdump` log, identified suspicious redirection behaviour and documented the incident in a structured security report.
+A traffic-log investigation based on a simulated web compromise. I analysed DNS and HTTP activity in a `tcpdump` log, identified suspicious redirection from one domain to another and documented the incident in a structured security report.
 
-**Skills shown:**
+**Skills demonstrated:**
+- DNS and HTTP traffic interpretation
+- TCP connection analysis
+- Suspicious redirection identification
+- Incident reporting
+- Evidence-based security conclusions
+- Brute-force attack remediation recommendations
 
-* Traffic-log interpretation
-* DNS and HTTP analysis
-* Incident reporting
-* Identifying suspicious web redirection
-* Security remediation recommendations
-
-**Project status:** In progress — full write-up being prepared.
-
-
-### 🛡️ Security Incident Reporting and Response Practice
-
-A set of security analysis exercises focused on documenting incidents clearly, identifying affected systems, assessing likely causes and recommending practical defensive controls.
-
-**Skills shown:**
-
-* Incident documentation
-* Root-cause reasoning
-* Applying security frameworks
-* Writing clear analyst-style findings
-
-**Project status:** Planned portfolio case study.
+**Repository:** Published in this GitHub portfolio.
 
 
 ### 🌐 Small Business Network Design for NETGEN Ltd
 
-A network design project for a fictional business head office, covering departmental connectivity, DHCP planning, server placement, device communication and testing.
+A network design project for a fictional business head office, covering departmental connectivity, DHCP planning, server placement, testing and network maintenance considerations.
 
-**Skills shown:**
+**Skills demonstrated:**
+- Logical and physical network design
+- DHCP and IP addressing concepts
+- Connectivity testing
+- Network maintenance planning
+- Business-focused technical documentation
 
-* Logical and physical network design
-* DHCP concepts
-* Connectivity validation
-* Business-focused infrastructure planning
-* Network maintenance considerations
-
-**Project status:** Existing project being adapted into a portfolio case study.
-
-
-## Learning and Credentials
-
-### Microsoft Learn — Security and Compliance
-
-I have completed a growing set of Microsoft Learn modules and trophies across:
-
-* Microsoft Defender XDR
-* Microsoft Defender for Endpoint
-* Microsoft Defender for Office 365
-* Microsoft Defender for Identity
-* Microsoft Defender for Cloud Apps
-* Microsoft Entra Identity Protection
-* Microsoft Purview eDiscovery and Audit
-* Data Loss Prevention alerts
-* Insider Risk Management
-* AI-related data security and compliance
-
-### Google Cybersecurity Certificate coursework
-
-* Foundations of Cybersecurity
-* Manage Security Risks
-* Networks and Network Security
-
-### TryHackMe
-
-* Careers in Cyber
-* Defensive Security Intro
-* Pentesting Fundamentals
-* Red Team Fundamentals
+**Status:** Being prepared as a portfolio case study.
 
 
-## Technical Interests
+## Learning, Courses and Achievements
 
-I am especially interested in how analysts move from a single alert or suspicious event to a clear conclusion. I enjoy breaking down what happened, what evidence supports it, what the likely risk is and what should be done next.
+### Google Cybersecurity Professional Certificate — Progress
 
-That is the direction I want this portfolio to show: not just completed courses, but a growing ability to **analyse, explain and respond to security problems in a professional way**.
+Completed:
+
+- **Foundations of Cybersecurity**
+- **Play It Safe: Manage Security Risks**
+- **Connect and Protect: Networks and Network Security**
+- **Tools of the Trade: Linux and SQL**
+- **Sound the Alarm: Detection and Response**
+
+Currently in progress:
+
+- **Assets, Threats, and Vulnerabilities**
 
 
-## Skills I’m Developing
+## Microsoft Learn — Security, Defender and Purview
+
+### Microsoft Defender and XDR
+
+- **Mitigate threats using Microsoft Defender XDR** — Trophy
+- **Introduction to Microsoft Defender XDR threat protection**
+- **Mitigate incidents using Microsoft Defender**
+- **Remediate threats using Microsoft Defender**
+- **Introduction to Microsoft Defender for Endpoint**
+- **Introduction to Microsoft Defender for Office 365**
+- **Secure your cloud apps and services with Microsoft Defender for Cloud Apps**
+- **Safeguard your environment with Microsoft Defender for Identity**
+
+### Identity Security
+
+- **Manage Microsoft Entra Identity Protection**
+
+### Microsoft Purview, Audit and Data Protection
+
+- **Mitigate threats using Microsoft Purview** — Trophy
+- **Audit and search activity in Microsoft Purview** — Trophy
+- **Protect sensitive data in a digital world**
+- **Create and configure sensitivity labels with Microsoft Purview**
+- **Understand Microsoft Purview eDiscovery**
+- **Search for content with Microsoft Purview eDiscovery**
+- **Search and investigate with Microsoft Purview Audit**
+- **Introduction to information security and compliance in Microsoft Purview**
+- **Create and manage sensitive information types**
+- **Investigate and respond to Microsoft Purview Data Loss Prevention alerts**
+
+### Insider Risk and AI Data Security
+
+- **Implement and manage Microsoft Purview Insider Risk Management** — Trophy
+- **Govern and protect sensitive information in the age of AI** — Trophy
+- **Prepare for Microsoft Purview Insider Risk Management**
+- **Understand Microsoft Purview Insider Risk Management**
+- **Create and manage Insider Risk Management policies**
+- **Investigate insider risk alerts and related activity**
+- **Implement Adaptive Protection in Microsoft Purview**
+- **Manage AI data security challenges with Microsoft Purview**
+- **Identify and mitigate AI data security risks**
+- **Manage compliance with Microsoft Purview for Microsoft 365 Copilot**
+
+
+## TryHackMe — Completed Rooms and SOC Achievements
+
+### Completed Rooms
+
+- Tutorial
+- Careers in Cyber
+- Offensive Security Intro
+- Defensive Security Intro
+- Junior Security Analyst Intro
+- Pentesting Fundamentals
+- Red Team Fundamentals
+- SOC Fundamentals
+- SOC L1 Alert Triage
+- SOC L1 Alert Reporting
+- SOC Workbooks and Lookups
+- SOC Metrics and Objectives
+- Humans as Attack Vectors
+- Systems as Attack Vectors
+- SOC Role in Blue Team
+- Introduction to SIEM
+- Introduction to EDR
+
+### SOC Achievements
+
+- **First Step into SOC** — Explored emerging threats and SOC response
+- **SOC Apprentice** — Explored how a SOC team operates from the inside
+- **First alert closed** — Closed an initial alert investigation
+- **First scenario completed** — Completed a SOC investigation scenario
+- **100% true positive rate** — Achieved a perfect true-positive rate in a scenario
+
+
+## Skills I’m Building
 
 ```text
-* Cybersecurity Fundamentals
-* Incident Analysis
-* Network Security
-* Traffic Log Review
-* Threat Detection
-* Security Reporting
-* Microsoft Defender XDR
-* Microsoft Purview
-* Identity Protection
-* TCP/IP and DNS
-* HTTP Traffic
-* Risk Awareness
-
-
-
-## Career Direction
-
-My short-term aim is to secure a role such as:
-
-* Junior SOC Analyst
-* Cybersecurity Analyst Trainee
-* Security Operations Assistant
-* IT Security Support / Analyst
-
-Over time, I want to deepen my technical expertise and work towards a career in **penetration testing and ethical hacking**, supported by a strong understanding of defensive security.
-
-
-## Connect with me
-
-* **LinkedIn:** Add link here
-* **Email:** Add professional email here
+SOC Alert Triage              | Incident Response              | Threat Investigation
+Microsoft Defender XDR        | Microsoft Purview              | Microsoft Entra Identity Protection
+Endpoint Security             | Email Security                  | Cloud App Security
+Insider Risk Management       | Data Loss Prevention            | eDiscovery and Audit
+SIEM Fundamentals             | EDR Fundamentals                | Network Traffic Analysis
+DNS and HTTP Analysis         | tcpdump Log Review              | Wireshark Fundamentals
+Linux Fundamentals            | SQL Fundamentals                | Security Reporting
 
 
